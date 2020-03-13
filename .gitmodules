@@ -1,6 +1,6 @@
-[submodule "frontend"]
-	path = frontend
-	url = https://github.com/Jettapon/RMS-Angular.git
-[submodule "backend"]
-	path = backend
+[submodule "RMS-Laravel"]
+	path = RMS-Laravel
 	url = https://github.com/Jettapon/RMS-Laravel.git
+[submodule "RMS-Angular"]
+	path = RMS-Angular
+	url = https://github.com/Jettapon/RMS-Angular.git
