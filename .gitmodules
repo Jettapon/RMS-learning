@@ -4,3 +4,6 @@
 [submodule "RMS-Angular"]
 	path = RMS-Angular
 	url = https://github.com/Jettapon/RMS-Angular.git
+[submodule "RMS-Document"]
+	path = RMS-Document
+	url = https://github.com/Jettapon/RMS-Document.git
