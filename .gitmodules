@@ -7,3 +7,6 @@
 [submodule "RMS-Document"]
 	path = RMS-Document
 	url = https://github.com/Jettapon/RMS-Document.git
+[submodule "RMS-DotNet"]
+	path = RMS-DotNet
+	url = https://github.com/Jettapon/RMS-DotNet.git
